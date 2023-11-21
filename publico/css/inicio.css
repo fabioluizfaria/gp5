@@ -1,0 +1,52 @@
+.lab {
+    width: 40rem;
+    float: right; 
+    padding: 0px; 
+    margin: 0px 10px 10px 0; 
+} 
+body{
+    background-color:white(222, 196, 135) ;
+}
+.display-6 {
+    padding: 3rem;
+    text-align: justify;
+}
+
+#nav {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+} 
+
+.tituloagro {
+    font-size: 2.5rem;
+}
+
+#controle{
+
+    display: block;
+
+}
+
+#response{
+
+    display: none;
+
+}
+
+@media only screen and (max-width: 480px) {
+
+    #contrtole{
+
+        display: none;
+
+    }
+
+    #response{
+
+        display: block;
+
+    }
+
+}

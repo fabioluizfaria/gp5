@@ -1,0 +1,52 @@
+#main {
+    text-align: justify;
+    padding: 10px;
+}
+
+.tlegenda {
+    text-align: center;
+    font-size: 16px;
+}
+
+#tclassificacao {
+    margin-top: 5rem;
+}
+
+#tabclassificacao {
+    box-shadow: 20px 20px 40px -6px rgba(0, 0, 0, 0.5);
+}
+
+#tipo {
+    font-weight: bold;
+    text-align: center;
+}
+
+#aplicacao {
+    font-weight: bold;
+}
+
+#aplicacao-cor {
+    color: #a2b38b;
+    font-weight: bold;
+}
+
+.tlegfotos {
+    margin-left: 7rem;
+}
+
+#herbicida {
+    margin-top: 6rem;
+}
+
+#desfoliante {
+    margin-top: 4rem;
+}
+
+.tlegfotosdireita {
+    margin-top: -5rem;
+    margin-left: 65rem;
+}
+
+.tlegfotos-left {
+    margin-left: 3rem;
+}
